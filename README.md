@@ -1,5 +1,7 @@
 # Loan Calculator
 
+By Lemuel Nogueira
+
 This program is a comprehensive loan calculator that allows users to calculate the details of a loan, including monthly payments and an amortization schedule. It is written in C++ and demonstrates object-oriented programming principles. 
 
 ## Features
